@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robel Abebe<img align="right" width=150px height=100px alt="side_sticker"  src="https://media.tenor.com/UOWoWB0fVSkAAAAi/trabajando.gif" /></h1>
+<h1 align="center">Hi 👋, I'm Robel Abebe<img align="right" width=250px height=200px alt="side_sticker"  src="https://media.tenor.com/UOWoWB0fVSkAAAAi/trabajando.gif" /></h1>
 <!-- <img align="right" width=150px height=100px alt="side_sticker"  src="https://media.tenor.com/UOWoWB0fVSkAAAAi/trabajando.gif" /> -->
 
 
