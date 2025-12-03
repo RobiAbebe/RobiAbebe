@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Robel Abebe</h1>
-<img align="right" width=150px height=100px alt="side_sticker"  src="https://media.tenor.com/UOWoWB0fVSkAAAAi/trabajando.gif" />
+<h1 align="center">Hi 👋, I'm Robel Abebe<img align="right" width=150px height=100px alt="side_sticker"  src="https://media.tenor.com/UOWoWB0fVSkAAAAi/trabajando.gif" /></h1>
+<!-- <img align="right" width=150px height=100px alt="side_sticker"  src="https://media.tenor.com/UOWoWB0fVSkAAAAi/trabajando.gif" /> -->
 
 
 
