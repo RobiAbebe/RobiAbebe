@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Robel Abebe <img align="right" width=250px height=200px alt="side_sticker"  src="https://media.tenor.com/UOWoWB0fVSkAAAAi/trabajando.gif" /> 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robelcode) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/robel_dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:robelabebe.dev@gmail.com) 
 </h1>
 <!-- <img align="right" width=150px height=100px alt="side_sticker"  src="https://media.tenor.com/UOWoWB0fVSkAAAAi/trabajando.gif" /> -->
 
