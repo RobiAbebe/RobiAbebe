@@ -18,7 +18,6 @@ I’m **Robel Abebe**, a frontend-focused developer who loves building **clean, 
 - 🌍 Based in Ethiopia
 - 🚀 Self-taught & product-driven
 - 🧠 Learning full-stack step by step
-- ✝️ Faith-driven, discipline-first mindset
 
 I care about **clarity, consistency, and progress** — not hype.
 
