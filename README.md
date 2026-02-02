@@ -78,6 +78,4 @@ I’m **building depth**.
 
 <div align="center">
 
-✨ *Built with discipline, not shortcuts.*
-
 </div>
