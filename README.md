@@ -35,8 +35,7 @@ I care about **clarity, consistency, and progress** — not hype.
 
 - ⚡ Real-world frontend projects  
 - 🤖 Telegram bots & automation tools  
-- 🌐 Full-stack apps (React + Backend)  
-- 🧱 Building a strong GitHub portfolio  
+- 🌐 Full-stack apps 
 
 ---
 
