@@ -49,15 +49,6 @@ I care about **clarity, consistency, and progress** — not hype.
 
 ---
 
-## 🌱 Philosophy
-
-> *“Small consistent steps beat motivation every time.”*
-
-I’m not rushing.  
-I’m **building depth**.
-
----
-
 ## 🤝 Let’s Connect
 
 <p align="center">
