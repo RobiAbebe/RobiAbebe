@@ -14,10 +14,9 @@
 
 I’m **Robel Abebe**, a frontend-focused developer who loves building **clean, functional, and meaningful software**.
 
-- 💻 Frontend Developer (React & React Native)
+- 💻 Fullstack Developer
 - 🌍 Based in Ethiopia
-- 🚀 Self-taught & product-driven
-- 🧠 Learning full-stack step by step
+- 🚀 Self-taught 
 
 I care about **clarity, consistency, and progress** — not hype.
 
