@@ -32,7 +32,6 @@ I care about **clarity, consistency, and progress** — not hype.
 
 ## 📌 What I’m Working On
 
-- ⚡ Real-world frontend projects  
 - 🤖 Telegram bots & automation tools  
 - 🌐 Full-stack apps 
 
