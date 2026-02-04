@@ -30,7 +30,7 @@ I’m **Robel Abebe**, a frontend-focused developer who loves building **clean, 
 
 ## 📌 What I’m Working On
 
-- 🤖 Telegram bots & automation tools  
+- 🤖 Telegram bots  
 - 🌐 Full-stack apps 
 
 ---
