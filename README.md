@@ -18,8 +18,6 @@ I’m **Robel Abebe**, a frontend-focused developer who loves building **clean, 
 - 🌍 Based in Ethiopia
 - 🚀 Self-taught 
 
-I care about **clarity, consistency, and progress** — not hype.
-
 ---
 
 ## 🛠 Tech Stack
