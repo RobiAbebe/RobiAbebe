@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I’m **Robel Abebe**, a frontend-focused developer who loves building **clean, functional, and meaningful software**.
+I’m **Robel Abebe**
 
 - 💻 Fullstack Developer
 - 🌍 Based in Ethiopia
