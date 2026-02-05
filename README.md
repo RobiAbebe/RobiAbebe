@@ -30,8 +30,7 @@ I’m **Robel Abebe**
 
 ## 📌 What I’m Working On
 
-- 🤖 Telegram bots  
-- 🌐 Full-stack apps 
+- 🤖 Telegram bots   
 
 ---
 
