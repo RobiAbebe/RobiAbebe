@@ -34,7 +34,6 @@ I’m **Robel Abebe**
 
 ---
 
-## 📈 GitHub Stats
 
 <div align="center">
 
