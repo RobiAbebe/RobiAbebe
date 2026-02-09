@@ -15,7 +15,6 @@
 I’m **Robel Abebe**
 
 - 💻 Fullstack Developer
-- 🌍 Based in Ethiopia
 - 🚀 Self-taught 
 
 ---
