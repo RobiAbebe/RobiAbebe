@@ -32,18 +32,6 @@ I’m **Robel Abebe**
 - 🌐 Full-stack apps
 - 🤖 Telegram bots   
 
----
-
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
-
-</div>
-
----
 
 ## 🤝 Let’s Connect
 
