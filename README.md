@@ -1,54 +1,63 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Robel%20Abebe&fontAlign=50&fontAlignY=40&color=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=200&section=header&text=Hey,%20I'm%20Robi%20👋&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Dev%20%26%20Python%20Engineer&descAlignY=55&descColor=a8b2d8" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+React+Native;Building+Real+World+Products;Learning+Every+Single+Day" />
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Self-taught+Fullstack+Developer;Python+Engineer;Building+for+the+web;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👋 About Me
+### 🛠️ Tech Stack
 
-I’m **Robel Abebe**
+<div align="center">
 
-- 💻 Fullstack Developer
-- 🚀 Self-taught 
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=e94560)
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=e94560)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=e94560)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=e94560)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=e94560)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=e94560)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=e94560)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=e94560)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=e94560)
+![Flutter](https://img.shields.io/badge/Flutter-1a1a2e?style=for-the-badge&logo=flutter&logoColor=e94560)
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,github,vscode&perline=5" />
-</p>
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+> Coming soon — writing about web dev, Python, and stuff I figure out the hard way.
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 📌 What I’m Working On
+### 🤝 Connect with me
 
-- 🌐 Full-stack apps
-- 🤖 Telegram bots   
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=e94560)](https://linkedin.com/in/robi)
+[![Twitter](https://img.shields.io/badge/Twitter-1a1a2e?style=for-the-badge&logo=twitter&logoColor=e94560)](https://twitter.com/robi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=firefox&logoColor=e94560)](https://robi.dev)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=e94560)](mailto:robi@email.com)
 
-## 🤝 Let’s Connect
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+</div>
 
 ---
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=robi&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=100&section=footer&animation=fadeIn" />
 
 </div>
