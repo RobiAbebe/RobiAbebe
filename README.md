@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=200&section=header&text=Hey,%20I'm%20Robi%20👋&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Dev%20%26%20Python%20Engineer&descAlignY=55&descColor=a8b2d8" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Robi+%F0%9F%91%8B;Fullstack+Dev+%26+Python+Engineer;Self-taught%2C+still+building)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Self-taught+Fullstack+Developer;Python+Engineer;Building+for+the+web;Always+learning%2C+always+building)](https://git.io/typing-svg)
-
-</div>
+<br>
 
 ---
 
@@ -23,25 +19,13 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=e94560)
 ![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=e94560)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=e94560)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=e94560)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=e94560)
 ![Flutter](https://img.shields.io/badge/Flutter-1a1a2e?style=for-the-badge&logo=flutter&logoColor=e94560)
 
 </div>
 
 ---
 
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-> Coming soon — writing about web dev, Python, and stuff I figure out the hard way.
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🤝 Connect with me
+### 🤝 Connect
 
 <div align="center">
 
@@ -52,12 +36,10 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=robi&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=100&section=footer&animation=fadeIn" />
+![Profile Views](https://komarev.com/ghpvc/?username=robi&color=e94560&style=flat-square&label=profile+views)
 
 </div>
