@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 
 ---
 
-### 🤝 Connect
+### Let's Connect
 
 <div align="center">
 
