@@ -21,8 +21,6 @@
 
 </div>
 
----
-
 ### Let's Connect
 
 <div align="center">
