@@ -28,7 +28,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=e94560)](https://linkedin.com/in/robiab)
 [![Twitter](https://img.shields.io/badge/Twitter-1a1a2e?style=for-the-badge&logo=twitter&logoColor=e94560)](https://twitter.com/robel_dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=firefox&logoColor=e94560)](https://robelabebe.com)
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=e94560)](mailto:robel7e@email.com)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=e94560)](mailto:robel7e@gmail.com)
 
 </div>
 
